@@ -27,7 +27,7 @@ This repository provides a fully containerized, production-ready environment for
         +--> jsonrpcserver.py ----------->
              |
              +-> Aggregates and proxies inbound JSON-RPC calls
-
+```
 
 # This repository contains only the documentation and overview.
 
