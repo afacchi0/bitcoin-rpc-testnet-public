@@ -31,4 +31,4 @@ This repository provides a fully containerized, production-ready environment for
 
 # This repository contains only the documentation and overview.
 
-The full implementation is private. If you would like access to the full implementation, please open a new GitHub issue using the “Access Request” template
+The full implementation is private. If you would like access to it, please open a new GitHub issue using the “Access Request” template
